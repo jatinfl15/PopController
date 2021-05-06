@@ -1,20 +1,11 @@
 //
 //  SOViewController.swift
-//  Exersice App
+//  Sample App
 //
 //  Created by Martis on 04/05/21.
 //
 
 import UIKit
-import HealthKit
-
-//class SOViewController: UIViewController {
-//
-//    override func viewDidLoad() {
-//        super.viewDidLoad()
-//    }
-//
-//}
 
 class SOViewController: UIViewController ,UIPopoverPresentationControllerDelegate {
 
