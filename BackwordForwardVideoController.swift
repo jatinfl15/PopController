@@ -1,6 +1,6 @@
 //
 //  BackwordForwardVideoController.swift
-//  SO
+//  Sample App
 //
 //  Created by Martis on 04/05/21.
 //
