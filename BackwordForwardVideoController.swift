@@ -1,6 +1,6 @@
 //
 //  SOViewController.swift
-//  Exersice App
+//  SO
 //
 //  Created by Martis on 04/05/21.
 //
