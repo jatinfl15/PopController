@@ -8,7 +8,7 @@
 import UIKit
 import AVKit
 
-class SOViewController: UIViewController {
+class BackwordForwardVideoController: UIViewController {
 
     //MARK:- Outlets
     @IBOutlet weak var viewVideoPlayer: UIView!
